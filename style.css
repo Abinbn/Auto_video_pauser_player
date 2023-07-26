@@ -19,7 +19,7 @@ video {
   display: flex;
   height: 100%;
   justify-content: space-between;
-  border: 1px solid red;
+  border: none;
 }
 
 .play-pause-button {
@@ -32,7 +32,7 @@ video {
   transform: translate(0%, 0%);
   align-items: center;
   color: #fff;
-  border: 1px solid yellow;
+  border: none;
   cursor: pointer;
   margin: 0px 5px 0px 5px;
 }
